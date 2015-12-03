@@ -3,6 +3,11 @@ A bit of bit twiddling fun in C from CS 367
 
 ### Specs
 
+unix> tar xvf 1_datalab-handout.tar
+
+This will cause a number of files to be unpacked in the directory. The only file you will be modifying and
+turning in is bits.c.
+
 The bits.c file contains a skeleton for each of the programming puzzles. Your assignment is to complete
 each function skeleton using only straightline code for the integer puzzles (i.e., no loops or conditionals)
 and a limited number of C arithmetic and logical operators. Specifically, you are only allowed to use the
