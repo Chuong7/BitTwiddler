@@ -1,2 +1,2 @@
 # BitTwiddler
-A bit of bit twiddling exercises in C from CS 367 
+A bit of bit twiddling fun in C from CS 367 
